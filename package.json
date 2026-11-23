@@ -4,10 +4,11 @@
     "description": "Cinevers - Website Katalog, Rekomendasi & Streaming Film dengan Gemini AI & TMBD API",
     "type": "module",
     "scripts": {
-        "start": "node server.js",
-        "dev": "node server.js"
+        "start": "node local-server.js",
+        "dev": "node local-server.js"
     },
     "keywords": ["movie", "gemini-ai", "tmbd", "streaming", "pti"],
     "author": "",
     "license": "MIT"
 }
+
