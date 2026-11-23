@@ -121,4 +121,5 @@ server.listen(PORT, () => {
   console.log(`🎬 Cinevers Server aktif & siap digunakan!`);
   console.log(`👉 Akses di browser: http://localhost:${PORT}`);
   console.log(`==============================================\n`);
+
 });
